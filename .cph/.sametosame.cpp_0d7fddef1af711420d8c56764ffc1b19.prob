@@ -1,0 +1,1 @@
+{"name":"Local: sametosame","url":"e:\\Phitron\\DS\\ass2\\sametosame.cpp","tests":[{"id":1719503627740,"input":"10 20 30 40 -1\n10 20 30 40 -1","output":"YES"},{"id":1719504117298,"input":"10 20 30 40 -1\n10 20 30 -1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\DS\\ass2\\sametosame.cpp","group":"local","local":true}
